@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+<title id="title">Roshan Singh — Developer</title><desc id="desc">Animated dark navy developer profile graphic for Roshan Singh.</desc>
+<defs>
+ <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111c31"/><stop offset="1" stop-color="#080d19"/></linearGradient>
+</defs>
+<rect width="1000" height="260" rx="22" fill="#070b16"/>
+<rect x="1" y="1" width="998" height="258" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".75"/>
+
+<text x="42" y="48" fill="#9eb2d4" font-family="monospace" font-size="16">HELLO WORLD / GITHUB PROFILE</text>
+<text x="40" y="118" fill="#f4f7ff" font-family="Arial,sans-serif" font-weight="800" font-size="52">I'M ROSHAN SINGH</text>
+<text x="42" y="158" fill="#247bff" font-family="Arial,sans-serif" font-size="25" font-weight="700">FULL STACK • BACKEND DEVELOPER</text>
+<text x="42" y="195" fill="#c5cee0" font-family="Arial,sans-serif" font-size="17">Building web experiences with React, Node.js and modern backends.</text>
+<circle cx="930" cy="44" r="8" fill="#ff354f"><animate attributeName="r" values="6;10;6" dur="2.5s" repeatCount="indefinite"/></circle>
+<path d="M42 222 H958" stroke="url(#accent)" stroke-width="3" stroke-dasharray="18 10"><animate attributeName="stroke-dashoffset" values="0;-56" dur="5s" repeatCount="indefinite"/></path>
+
+</svg>

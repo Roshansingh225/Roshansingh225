@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+<title id="title">Connect with Roshan</title><desc id="desc">Animated dark navy developer profile graphic for Roshan Singh.</desc>
+<defs>
+ <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111c31"/><stop offset="1" stop-color="#080d19"/></linearGradient>
+</defs>
+<rect width="1000" height="260" rx="22" fill="#070b16"/>
+<rect x="1" y="1" width="998" height="258" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".75"/>
+
+<text x="42" y="52" fill="#247bff" font-family="monospace" font-size="16">03 / LET'S CONNECT</text>
+<text x="42" y="112" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="36" font-weight="800">BUILD SOMETHING GREAT.</text>
+<text x="42" y="151" fill="#c5cee0" font-family="Arial,sans-serif" font-size="18">Open to learning, collaboration and developer opportunities.</text>
+<rect x="42" y="182" width="240" height="42" rx="12" fill="#14284a" stroke="#247bff"/>
+<text x="63" y="208" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="16">github.com/Roshansingh225</text>
+<path d="M830 198 H940 M925 183 L940 198 L925 213" fill="none" stroke="#ff354f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="1.5s" repeatCount="indefinite"/></path>
+
+</svg>

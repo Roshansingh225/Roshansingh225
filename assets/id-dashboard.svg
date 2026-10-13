@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+<title id="title">Developer ID Card</title><desc id="desc">Animated dark navy developer profile graphic for Roshan Singh.</desc>
+<defs>
+ <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111c31"/><stop offset="1" stop-color="#080d19"/></linearGradient>
+</defs>
+<rect width="1000" height="260" rx="22" fill="#070b16"/>
+<rect x="1" y="1" width="998" height="258" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".75"/>
+
+<g transform="translate(40,25)">
+<rect x="0" y="0" width="920" height="210" rx="18" fill="url(#panel)" stroke="#283b5b"/>
+<rect x="0" y="0" width="10" height="210" rx="5" fill="url(#accent)"/>
+<text x="32" y="38" fill="#9eb2d4" font-family="monospace" font-size="14">DEVELOPER ID / 001</text>
+<text x="32" y="91" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="35" font-weight="800">ROSHAN SINGH</text>
+<text x="32" y="125" fill="#247bff" font-family="Arial,sans-serif" font-size="19">Full Stack &amp; Backend Developer</text>
+<text x="32" y="165" fill="#c5cee0" font-family="Arial,sans-serif" font-size="15">React • Node.js • MongoDB • Supabase</text>
+<g transform="translate(720,28)" stroke="#c5cee0" stroke-width="3"><path d="M0 0V130 M10 0V130 M22 0V130 M28 0V130 M43 0V130 M54 0V130 M60 0V130 M75 0V130 M86 0V130 M95 0V130 M111 0V130 M124 0V130 M134 0V130 M145 0V130 M155 0V130"/></g>
+<path d="M-5 5 L920 5" stroke="#fff" stroke-opacity=".2" stroke-width="18"><animate attributeName="stroke-opacity" values=".02;.25;.02" dur="4s" repeatCount="indefinite"/></path>
+</g>
+
+</svg>
